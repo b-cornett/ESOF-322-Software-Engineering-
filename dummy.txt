@@ -1,3 +1,5 @@
 Dummy file to show github commands
 
 Modifying dummy.txt
+
+Modifying dummy.txt2
